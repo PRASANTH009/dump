@@ -1,0 +1,6 @@
+- b'Ansible-Docs-Check-Mode'
+- b'https://docs.ansible.com/ansible/playbooks_checkmode.html'
+- b'Ansible-Docs-Start-and-Step'
+- b'https://docs.ansible.com/ansible/playbooks_startnstep.html'
+- b'Ansible-Docs-debug'
+- b'https://docs.ansible.com/ansible/debug_module.html'

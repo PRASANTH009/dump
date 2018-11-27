@@ -1,0 +1,6 @@
+- b'Ansible-Docs-Dynamic-Inventory'
+- b'https://docs.ansible.com/ansible/intro_dynamic_inventory.html'
+- b'Ansible-Docs-Patterns'
+- b'https://docs.ansible.com/ansible/intro_patterns.html'
+- b'Ansible-Docs-command'
+- b'https://docs.ansible.com/ansible/command_module.html'
